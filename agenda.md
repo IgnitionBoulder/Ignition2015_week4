@@ -1,4 +1,3 @@
-#### Monday
 - review and check in on last week's work
   - heroku
   - databases and migrations
@@ -14,6 +13,6 @@
         - make it simpler, easier to read, modular, and DRY (refactor)
     - Half of your time as a professional developer will likely be spent testing
     - Confidence in your app devolopment = the ability to move fast
-- exercise with 
-
-#### Thursday
+- exercise with RubyMonk restaurant
+- code styling for readability (maintainability)
+- debugging process
