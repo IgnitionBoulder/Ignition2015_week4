@@ -13,6 +13,7 @@
         - make it simpler, easier to read, modular, and DRY (refactor)
     - Half of your time as a professional developer will likely be spent testing
     - Confidence in your app devolopment = the ability to move fast
+    - It verifies that the feature you are trying to implement works and has been implemented
 - exercise with RubyMonk restaurant
 - code styling for readability (maintainability)
 - debugging process
