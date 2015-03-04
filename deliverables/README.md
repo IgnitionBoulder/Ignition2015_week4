@@ -1,4 +1,4 @@
 Deliverables:
-- Hartl's tutorial chapter 3 & 4 repo url: https://github.com/chloewolf/sample_app/tree/static-pages-exercises
+- Hartl's tutorial chapter 3 & 4 repo url: https://github.com/chloewolf/sample_app
   - [ x ] tests pass
   - [ x ] verification note in homepage footer
