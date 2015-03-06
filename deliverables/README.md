@@ -1,4 +1,5 @@
 Deliverables:
-- Hartl's tutorial chapter 3 & 4 repo url: https://ide.c9.io/iansharp93/sample_app1
+- Hartl's tutorial chapter 3 & 4 repo url: Cloud 9 to git hub : https://github.com/IanSharp93/sample_app.git
+                                            Cloud 9 to Heroku : https://shrouded-castle-1322.herokuapp.com
   - [ ] tests pass
   - [ ] verification note in homepage footer
